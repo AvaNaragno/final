@@ -1,0 +1,93 @@
+.navbar {
+    position:fixed;
+    width:100%;
+    top:0;
+    background-color: azure;
+    font-size: 35px;
+    padding:2px 0px;
+    text-align: center;
+    color:rgb(187, 28, 28);
+}
+
+.navbar li {
+    display:inline-block;
+    padding:0 50px;
+    filter:drop-shadow (1px 1px 1px brown)
+
+}
+
+.navbar a {
+    text-decoration: none;
+    color:maroon
+}
+
+
+.banner {
+background-color: rgb(142, 204, 207);
+color:black;
+margin-top: 99px;
+text-align:center;
+padding: 8px 0px; 
+
+}
+body {
+    background-color: rgb(53, 179, 168);
+}
+
+#lu {
+    height:150px;
+    width:150px;
+    filter:drop-shadow(4px 4px 4px maroon )
+}
+
+button {
+    text-align: center;
+color:maroon;
+    background-color: rgb(247, 248, 248);
+    height: 50px;
+    margin-top:30px;
+    font-weight:600;
+    opacity: 60% ;
+    width: 150px;
+    filter:drop-shadow(2px 2px 2px maroon )
+    
+}
+.lessonbook {
+    font-size: 20;
+}
+
+
+
+#lessonbook {
+   font-size:20px;
+    text-align:left;
+    color:rgb(0, 0, 0)
+    
+}
+.header {
+    font-size: 40px;
+    text-align: center;
+    font-family: angelina;
+    color:rgba(7, 1, 1, 0.452)
+    
+}
+
+ #hello{
+
+    color: rgba(14, 8, 56, 0.925);
+    font-weight:normal;
+    font-size:30px;
+    text-align: center;
+    font-family:angelina;
+}
+
+audio {
+    visibility: hidden;
+    
+}
+
+footer {
+    color: rgb(31, 18, 18);
+    opacity: 80%;
+    font-size: x-small;
+}
